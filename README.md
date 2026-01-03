@@ -22,7 +22,7 @@ Guru Jambheshwar University of Science and Technology, Hisar - 125001
 ---
 
 ### 💼 Professional Development  
-- ** Data Scientist @ Collegedunia **
+- **Data Scientist @ Collegedunia**
 - **IBM Data Analytics Internship**  
   - Performed Data Analysis on Yulu Bike Sharing Dataset.  
   - 📜 [Certification Link](https://drive.google.com/file/d/1Fjt95AdffCd5wgGxw56KMr1L2Al0bIU3/view)  
