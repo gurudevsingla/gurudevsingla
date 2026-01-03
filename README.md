@@ -1,9 +1,9 @@
-## 👋 Hi, I'm Gurudev Singla - Aspiring Data Scientist  
+## 👋 Hi, I'm Gurudev Singla - Data Scientist @ Collegedunia
 
 ---
 
 ### 📌 Summary  
-Aspiring data scientist adept at leveraging classical machine learning, computer vision, and natural language processing techniques to tackle complex business challenges. Skilled in extracting actionable insights from messy data and proficient in communicating findings to stakeholders.
+I am adept at leveraging classical machine learning, computer vision, and natural language processing techniques to tackle complex business challenges. Skilled in extracting actionable insights from messy data and proficient in communicating findings to stakeholders.
 
 ---
 
@@ -22,6 +22,7 @@ Guru Jambheshwar University of Science and Technology, Hisar - 125001
 ---
 
 ### 💼 Professional Development  
+- ** Data Scientist @ Collegedunia **
 - **IBM Data Analytics Internship**  
   - Performed Data Analysis on Yulu Bike Sharing Dataset.  
   - 📜 [Certification Link](https://drive.google.com/file/d/1Fjt95AdffCd5wgGxw56KMr1L2Al0bIU3/view)  
