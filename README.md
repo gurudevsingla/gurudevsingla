@@ -58,6 +58,3 @@ Feel free to reach out if you'd like to collaborate on any projects or discuss d
 </div>
 
 ---
-
-### 📊 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurudevsingla&layout=compact&theme=radical)   
